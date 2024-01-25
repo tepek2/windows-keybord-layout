@@ -1,13 +1,13 @@
 # windows-keybord-layout
 Better czech keyboard layout for programing, it's standart Czech - QWERTZ layout with extra capabilities on **alt gr**.  
 ### Layout overview
-![normal](docs/img/normal.png normal)  
+![normal](/docs/img/normal.png "normal")  
 **SHIFT**  
-![shift](docs/img/shift.png shift)  
+![shift](docs/img/shift.png "shift")  
 **AltGr**  
-![altgr](docs/img/altgr.png alt gre)  
+![altgr](docs/img/altgr.png "altgr")  
 **AltGr + SHIFT**  
-![altgr + shift](docs/img/altgr-shift.png altgr + shift)
+![altgr + shift](docs/img/altgr-shift.png "altgr + shift")
 
 ## Instalation
 1) Download latest release zip file
