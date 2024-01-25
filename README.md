@@ -1,5 +1,5 @@
 # windows-keybord-layout
-Better czech keyboard layout for programing
+Better czech keyboard layout for programing, it's standart Czech - QWERTZ layout with extra capabilities on **alt gr**
 
 ## Instalation
 1) Download latest release zip file
